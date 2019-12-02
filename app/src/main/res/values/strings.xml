@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LikeDislike</string>
+    <string name="call">CALL 0123456789</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+
+</resources>
